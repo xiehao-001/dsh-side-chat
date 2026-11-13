@@ -18,7 +18,8 @@
     "icon.svg",
     "cordis.patch.yml",
     "README.md",
-    "MARKET.md"
+    "MARKET.md",
+    "lib/**/*"
   ],
   "dsh": {
     "client": {
